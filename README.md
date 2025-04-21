@@ -1,4 +1,20 @@
+# ToDo-React
+
 # React + Vite
+
+- [Demo Project](https://to-do-react-gray.vercel.app/)
+
+- Developed by “ Alireza jani ”
+
+- Created - 2025
+
+- Technologies Used - Html , css , tailwind , javascript
+
+- Role - Frontend
+
+- How to reach me :alirezajani611@gmail.com
+
+- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
