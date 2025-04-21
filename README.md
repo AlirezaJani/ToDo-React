@@ -8,7 +8,7 @@
 
 - Created - 2025
 
-- Technologies Used - Html , css , tailwind , javascript
+- Technologies Used - Html , css , tailwind , javascript , React.js
 
 - Role - Frontend
 
